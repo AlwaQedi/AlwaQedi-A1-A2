@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: a19936aee47ff5647bf4eb433912c371
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Batman_death_0
+  - first:
+      213: 21300002
+    second: Batman_death_1
+  - first:
+      213: 21300004
+    second: Batman_death_2
+  - first:
+      213: 21300006
+    second: Batman_death_3
+  - first:
+      213: 21300008
+    second: Batman_death_4
+  - first:
+      213: 21300010
+    second: Batman_death_5
+  - first:
+      213: 21300012
+    second: Batman_death_6
+  - first:
+      213: 21300014
+    second: Batman_death_7
+  - first:
+      213: 21300016
+    second: Batman_death_8
+  - first:
+      213: 21300018
+    second: Batman_death_9
+  - first:
+      213: 21300020
+    second: Batman_death_10
+  - first:
+      213: 21300022
+    second: Batman_death_11
+  - first:
+      213: 21300024
+    second: Batman_death_12
+  - first:
+      213: 21300026
+    second: Batman_death_13
+  - first:
+      213: 21300028
+    second: Batman_death_14
+  - first:
+      213: 21300030
+    second: Batman_death_15
+  - first:
+      213: 21300032
+    second: Batman_death_16
+  - first:
+      213: 21300034
+    second: Batman_death_17
+  - first:
+      213: 21300036
+    second: Batman_death_18
+  - first:
+      213: 21300038
+    second: Batman_death_19
+  - first:
+      213: 21300040
+    second: Batman_death_20
+  - first:
+      213: 21300042
+    second: Batman_death_21
+  - first:
+      213: 21300044
+    second: Batman_death_22
+  - first:
+      213: 21300046
+    second: Batman_death_23
+  - first:
+      213: 21300048
+    second: Batman_death_24
+  - first:
+      213: 21300050
+    second: Batman_death_25
+  - first:
+      213: 21300052
+    second: Batman_death_26
+  - first:
+      213: 21300054
+    second: Batman_death_27
+  - first:
+      213: 21300056
+    second: Batman_death_28
+  - first:
+      213: 21300058
+    second: Batman_death_29
+  - first:
+      213: 21300060
+    second: Batman_death_30
+  - first:
+      213: 21300062
+    second: Batman_death_31
+  - first:
+      213: 21300064
+    second: Batman_death_32
+  - first:
+      213: 21300066
+    second: Batman_death_33
+  - first:
+      213: 21300068
+    second: Batman_death_34
+  - first:
+      213: 21300070
+    second: Batman_death_35
+  - first:
+      213: 21300072
+    second: Batman_death_36
+  - first:
+      213: 21300074
+    second: Batman_death_37
+  - first:
+      213: 21300076
+    second: Batman_death_38
+  - first:
+      213: 21300078
+    second: Batman_death_39
+  - first:
+      213: 21300080
+    second: Batman_death_40
+  - first:
+      213: 21300082
+    second: Batman_death_41
+  - first:
+      213: 21300084
+    second: Batman_death_42
+  - first:
+      213: 21300086
+    second: Batman_death_43
+  - first:
+      213: 21300088
+    second: Batman_death_44
+  - first:
+      213: 21300090
+    second: Batman_death_45
+  - first:
+      213: 21300092
+    second: Batman_death_46
+  - first:
+      213: 21300094
+    second: Batman_death_47
+  - first:
+      213: 21300096
+    second: Batman_death_48
+  - first:
+      213: 21300098
+    second: Batman_death_49
+  - first:
+      213: 21300100
+    second: Batman_death_50
+  - first:
+      213: 21300102
+    second: Batman_death_51
+  - first:
+      213: 21300104
+    second: Batman_death_52
+  - first:
+      213: 21300106
+    second: Batman_death_53
+  - first:
+      213: 21300108
+    second: Batman_death_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Batman_death_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 484
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26d2cea6b4e1e84888e29c1f336bf6d
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 484
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccae3409874bf2488c8412c67d0cb43
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6009c06203b364d42a925ef1e1a4e69d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 476
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b367ae2aa86f684a9e371b819e47b6b
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 484
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03c80d043c1d544982935670c2dc806
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 484
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8624edd808c3ad4999fb2479ca8b501
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6bfafa3d5af7144871bb80833a63d7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 476
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48540300eb8a90a45be69f8f3c68cc60
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 484
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3d973fdf028c4bb1e350902d15061
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 484
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4f7ea5a4644104ea14a49ed27cb5af
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_19
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4196c11c202144e88f2ac12597b26d
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 476
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf45913107b9f40a54741b34aac057
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_24
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 484
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7ab63f88e975489a2caa985f590cb
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_25
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 484
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aa7745bf0bc1d4db3afc241f2bd061
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_27
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1400608a72af564680917ce6606b5c6
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_30
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 476
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1988dcfa84a1c4387b8a0bd422e04e
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_32
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 488
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01a105256ad2ff438ae22e996109a0e
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_33
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 488
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b620d158a5bede46a6415080b8cd1b9
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_34
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 488
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bca1bbe8002fcc45ab4f52189c054cf
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_35
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 495
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91083600ed4ada43a79db1af81a0e73
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_36
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 492
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fffbf381e4c846488db426541684d0a
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_37
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 492
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d3f953b49f13e4899fc05fed673237
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_38
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 495
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a142000503b76de4bb4dffc78489982a
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_39
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 498
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff6e6d2d30b6b34fa0499ab1e9653f4
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_40
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 501
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a761043a1156f04985ba7d83db08bdd
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_41
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 500
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296603132e1ccd447ac74afd0fe7e0db
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_death_42
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 493
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c165aab4650fa9b489f0efa782bc4b1e
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e0c89af22c1d8f4db54d9430bdf8935
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

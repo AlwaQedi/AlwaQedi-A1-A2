@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 4a835038782d91142b211e53237f84d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Batman_gun_Raise_0
+  - first:
+      213: 21300002
+    second: Batman_gun_Raise_1
+  - first:
+      213: 21300004
+    second: Batman_gun_Raise_2
+  - first:
+      213: 21300006
+    second: Batman_gun_Raise_3
+  - first:
+      213: 21300008
+    second: Batman_gun_Raise_4
+  - first:
+      213: 21300010
+    second: Batman_gun_Raise_5
+  - first:
+      213: 21300012
+    second: Batman_gun_Raise_6
+  - first:
+      213: 21300014
+    second: Batman_gun_Raise_7
+  - first:
+      213: 21300016
+    second: Batman_gun_Raise_8
+  - first:
+      213: 21300018
+    second: Batman_gun_Raise_9
+  - first:
+      213: 21300020
+    second: Batman_gun_Raise_10
+  - first:
+      213: 21300022
+    second: Batman_gun_Raise_11
+  - first:
+      213: 21300024
+    second: Batman_gun_Raise_12
+  - first:
+      213: 21300026
+    second: Batman_gun_Raise_13
+  - first:
+      213: 21300028
+    second: Batman_gun_Raise_14
+  - first:
+      213: 21300030
+    second: Batman_gun_Raise_15
+  - first:
+      213: 21300032
+    second: Batman_gun_Raise_16
+  - first:
+      213: 7105479954116915279
+    second: Batman_gun_Raise_0
+  - first:
+      213: 2004186144179176830
+    second: Batman_gun_Raise_1
+  - first:
+      213: 967923904800503297
+    second: Batman_gun_Raise_2
+  - first:
+      213: 3577326874717243113
+    second: Batman_gun_Raise_3
+  - first:
+      213: 8280706569391967010
+    second: Batman_gun_Raise_4
+  - first:
+      213: 6001877525001980773
+    second: Batman_gun_Raise_5
+  - first:
+      213: -907031691407388790
+    second: Batman_gun_Raise_6
+  - first:
+      213: -7515932870304234791
+    second: Batman_gun_Raise_7
+  - first:
+      213: 2074359586317559559
+    second: Batman_gun_Raise_8
+  - first:
+      213: -4760022535821401879
+    second: Batman_gun_Raise_9
+  - first:
+      213: -7835173013759352911
+    second: Batman_gun_Raise_10
+  - first:
+      213: 4129627798327359476
+    second: Batman_gun_Raise_11
+  - first:
+      213: 2404763010819608930
+    second: Batman_gun_Raise_12
+  - first:
+      213: -353884097495455562
+    second: Batman_gun_Raise_13
+  - first:
+      213: -6960882620784618585
+    second: Batman_gun_Raise_14
+  - first:
+      213: 8780486807496864557
+    second: Batman_gun_Raise_15
+  - first:
+      213: 6184747717200665413
+    second: Batman_gun_Raise_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Batman_gun_Raise_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1250
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f403ccf2f5cbb9260800000000000000
+      internalID: 7105479954116915279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1250
+        width: 41
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e754f83fdac40db10800000000000000
+      internalID: 2004186144179176830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1250
+        width: 46
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1063e33c9a1ce6d00800000000000000
+      internalID: 967923904800503297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1250
+        width: 43
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6cafcc6d735a130800000000000000
+      internalID: 3577326874717243113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1250
+        width: 42
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b0ad570cafae270800000000000000
+      internalID: 8280706569391967010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1250
+        width: 43
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bc4274fc3fa4350800000000000000
+      internalID: 6001877525001980773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1250
+        width: 44
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f04a97b739963f0800000000000000
+      internalID: -907031691407388790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1250
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d285d520ea02b790800000000000000
+      internalID: -7515932870304234791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1250
+        width: 45
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70762e6ad0b99cc10800000000000000
+      internalID: 2074359586317559559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1249
+        width: 40
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0e28d29b001fdb0800000000000000
+      internalID: -4760022535821401879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1249
+        width: 40
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf952118afd34390800000000000000
+      internalID: -7835173013759352911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1249
+        width: 39
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f771e55a926f4930800000000000000
+      internalID: 4129627798327359476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_12
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1249
+        width: 38
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261d6e4a73f6f5120800000000000000
+      internalID: 2404763010819608930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1249
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8af1dc940c61bf0800000000000000
+      internalID: -353884097495455562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_14
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1250
+        width: 40
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a351f0032af56f90800000000000000
+      internalID: -6960882620784618585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_15
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1250
+        width: 39
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23badbfa3e8ad970800000000000000
+      internalID: 8780486807496864557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_gun_Raise_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1250
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b5725d743a4d550800000000000000
+      internalID: 6184747717200665413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb08158d75451d5458c90bd67d14c3e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

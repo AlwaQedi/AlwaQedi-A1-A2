@@ -1,0 +1,1083 @@
+fileFormatVersion: 2
+guid: a1d37764614fe1946bed1e24fe0719b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Batman_attacks_and_health_0
+  - first:
+      213: 21300002
+    second: Batman_attacks_and_health_1
+  - first:
+      213: 21300004
+    second: Batman_attacks_and_health_2
+  - first:
+      213: 21300006
+    second: Batman_attacks_and_health_3
+  - first:
+      213: 21300008
+    second: Batman_attacks_and_health_4
+  - first:
+      213: 21300010
+    second: Batman_attacks_and_health_5
+  - first:
+      213: 21300012
+    second: Batman_attacks_and_health_6
+  - first:
+      213: 21300014
+    second: Batman_attacks_and_health_7
+  - first:
+      213: 21300016
+    second: Batman_attacks_and_health_8
+  - first:
+      213: 21300018
+    second: Batman_attacks_and_health_9
+  - first:
+      213: 21300020
+    second: Batman_attacks_and_health_10
+  - first:
+      213: 21300022
+    second: Batman_attacks_and_health_11
+  - first:
+      213: 21300024
+    second: Batman_attacks_and_health_12
+  - first:
+      213: 21300026
+    second: Batman_attacks_and_health_13
+  - first:
+      213: 21300028
+    second: Batman_attacks_and_health_14
+  - first:
+      213: 21300030
+    second: Batman_attacks_and_health_15
+  - first:
+      213: 21300032
+    second: Batman_attacks_and_health_16
+  - first:
+      213: 21300034
+    second: Batman_attacks_and_health_17
+  - first:
+      213: 21300036
+    second: Batman_attacks_and_health_18
+  - first:
+      213: 21300038
+    second: Batman_attacks_and_health_19
+  - first:
+      213: 21300040
+    second: Batman_attacks_and_health_20
+  - first:
+      213: 21300042
+    second: Batman_attacks_and_health_21
+  - first:
+      213: 21300044
+    second: Batman_attacks_and_health_22
+  - first:
+      213: 21300046
+    second: Batman_attacks_and_health_23
+  - first:
+      213: 21300048
+    second: Batman_attacks_and_health_24
+  - first:
+      213: 21300050
+    second: Batman_attacks_and_health_25
+  - first:
+      213: 21300052
+    second: Batman_attacks_and_health_26
+  - first:
+      213: 21300054
+    second: Batman_attacks_and_health_27
+  - first:
+      213: 21300056
+    second: Batman_attacks_and_health_28
+  - first:
+      213: 21300058
+    second: Batman_attacks_and_health_29
+  - first:
+      213: 21300060
+    second: Batman_attacks_and_health_30
+  - first:
+      213: 21300062
+    second: Batman_attacks_and_health_31
+  - first:
+      213: 21300064
+    second: Batman_attacks_and_health_32
+  - first:
+      213: 21300066
+    second: Batman_attacks_and_health_33
+  - first:
+      213: 21300068
+    second: Batman_attacks_and_health_34
+  - first:
+      213: 21300070
+    second: Batman_attacks_and_health_35
+  - first:
+      213: 21300072
+    second: Batman_attacks_and_health_36
+  - first:
+      213: -533101706872330527
+    second: Batman_attacks_and_health_0
+  - first:
+      213: -3222737463245960667
+    second: Batman_attacks_and_health_1
+  - first:
+      213: 8570814429204733550
+    second: Batman_attacks_and_health_2
+  - first:
+      213: 1300585676934958604
+    second: Batman_attacks_and_health_3
+  - first:
+      213: 2341876689255319788
+    second: Batman_attacks_and_health_4
+  - first:
+      213: -8437922600370390116
+    second: Batman_attacks_and_health_5
+  - first:
+      213: 1031371397257042942
+    second: Batman_attacks_and_health_6
+  - first:
+      213: 6843087735379557546
+    second: Batman_attacks_and_health_7
+  - first:
+      213: 7116376749958111031
+    second: Batman_attacks_and_health_8
+  - first:
+      213: -8852626734743943083
+    second: Batman_attacks_and_health_9
+  - first:
+      213: 8588735301985394980
+    second: Batman_attacks_and_health_10
+  - first:
+      213: 7548029911201023519
+    second: Batman_attacks_and_health_11
+  - first:
+      213: 3997710194286847296
+    second: Batman_attacks_and_health_12
+  - first:
+      213: -7987300784965676499
+    second: Batman_attacks_and_health_13
+  - first:
+      213: 2935063342014350562
+    second: Batman_attacks_and_health_14
+  - first:
+      213: 4546281197349988278
+    second: Batman_attacks_and_health_15
+  - first:
+      213: 1916204325912265455
+    second: Batman_attacks_and_health_16
+  - first:
+      213: -4102821286170415637
+    second: Batman_attacks_and_health_17
+  - first:
+      213: 6264789505735370529
+    second: Batman_attacks_and_health_18
+  - first:
+      213: 5857932907292323858
+    second: Batman_attacks_and_health_19
+  - first:
+      213: 6910840226042244931
+    second: Batman_attacks_and_health_20
+  - first:
+      213: 4228802073587071228
+    second: Batman_attacks_and_health_21
+  - first:
+      213: 5046221974489302156
+    second: Batman_attacks_and_health_22
+  - first:
+      213: 7323731476828778574
+    second: Batman_attacks_and_health_23
+  - first:
+      213: 7713205082440638579
+    second: Batman_attacks_and_health_24
+  - first:
+      213: -9054072320358191467
+    second: Batman_attacks_and_health_25
+  - first:
+      213: 6643009488872224382
+    second: Batman_attacks_and_health_26
+  - first:
+      213: -8620192035402950155
+    second: Batman_attacks_and_health_27
+  - first:
+      213: 3935835946637271769
+    second: Batman_attacks_and_health_28
+  - first:
+      213: 4188297217258468353
+    second: Batman_attacks_and_health_29
+  - first:
+      213: -4241513741313936047
+    second: Batman_attacks_and_health_30
+  - first:
+      213: 507076759898248780
+    second: Batman_attacks_and_health_31
+  - first:
+      213: -639571231366714865
+    second: Batman_attacks_and_health_32
+  - first:
+      213: -1992915016532920835
+    second: Batman_attacks_and_health_33
+  - first:
+      213: -1511283233285156973
+    second: Batman_attacks_and_health_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_0
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1141
+        width: 11
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 6, w: 306}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e668b472da0a98f0800000000000000
+      internalID: -533101706872330527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_1
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1361
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a81ea1a598643d0800000000000000
+      internalID: -3222737463245960667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_2
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1352
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e5a803056a1f670800000000000000
+      internalID: 8570814429204733550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_3
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1343
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e4ba948cb9c0210800000000000000
+      internalID: 1300585676934958604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_4
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1324
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8c4dae074008020800000000000000
+      internalID: 2341876689255319788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_5
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1327
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bbeaad91a76ea80800000000000000
+      internalID: -8437922600370390116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_6
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1305
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb110542da205e00800000000000000
+      internalID: 1031371397257042942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_7
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1284
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac71220a0887fe50800000000000000
+      internalID: 6843087735379557546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1272
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f1a1d23f272c260800000000000000
+      internalID: 7116376749958111031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_9
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1272
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558067253e6252580800000000000000
+      internalID: -8852626734743943083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_10
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1255
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42162b88041513770800000000000000
+      internalID: 8588735301985394980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_11
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1255
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16092b863dffb860800000000000000
+      internalID: 7548029911201023519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_12
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1237
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045ec6dad38ba7730800000000000000
+      internalID: 3997710194286847296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_13
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1222
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d221ced2148672190800000000000000
+      internalID: -7987300784965676499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_14
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e449061f807bb820800000000000000
+      internalID: 2935063342014350562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_15
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1188
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7651969a2a71f30800000000000000
+      internalID: 4546281197349988278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_16
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe241139ea9b79a10800000000000000
+      internalID: 1916204325912265455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_17
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda6e427c9df07c0800000000000000
+      internalID: -4102821286170415637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_18
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127a3f9fcd001f650800000000000000
+      internalID: 6264789505735370529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_19
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1156
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210fa3941fe8b4150800000000000000
+      internalID: 5857932907292323858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_20
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1140
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f6ab4029c38ef50800000000000000
+      internalID: 6910840226042244931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_21
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1138
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8b79da419bfaa30800000000000000
+      internalID: 4228802073587071228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_22
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1138
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8484375628c70640800000000000000
+      internalID: 5046221974489302156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_23
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1128
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f9b2b9fe13a560800000000000000
+      internalID: 7323731476828778574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_24
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1110
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ac9af72fca0b60800000000000000
+      internalID: 7713205082440638579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_25
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1099
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e6a56f139795280800000000000000
+      internalID: -9054072320358191467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_26
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7637c71fe5b03c50800000000000000
+      internalID: 6643009488872224382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_27
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1087
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9d72af30dee5880800000000000000
+      internalID: -8620192035402950155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_28
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1069
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d22785c0f5ee9630800000000000000
+      internalID: 3935835946637271769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_29
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1068
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104b278e022df1a30800000000000000
+      internalID: 4188297217258468353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_30
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 1053
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1557b0b89bd1325c0800000000000000
+      internalID: -4241513741313936047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_31
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1049
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46579360af790700800000000000000
+      internalID: 507076759898248780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_32
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1016
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae3d98a59cf17f0800000000000000
+      internalID: -639571231366714865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_33
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1025
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df57304f95eb754e0800000000000000
+      internalID: -1992915016532920835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batman_attacks_and_health_34
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1008
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fc80d08e7d60be0800000000000000
+      internalID: -1511283233285156973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 73e90356cf20fb34c876c0cb08f30865
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
